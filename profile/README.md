@@ -4,6 +4,6 @@ This project is intended to break through the DNS barriers commonly used to cens
 
 Please see https://samizdatonline.org
 
-NOTE: our code is currently being held privately for security purposes, but please reach out to us if you would like to be involved.
+>NOTE: our code is currently being held privately for security purposes, but please reach out to us if you would like to be involved.
 
 If you happen to be part of the W3C, please make this project unnecessary. DNS should not be abused for political gain. The open Internet is focused on ensuring the integrity and validation of domain names, so we can trust the source, whatever the source is; but that mechanism is being used to hide the Internet and hide free press. The world wants both integrity and access.
